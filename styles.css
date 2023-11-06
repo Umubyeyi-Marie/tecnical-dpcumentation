@@ -1,0 +1,24 @@
+body{
+
+    background-color:rgb(175, 172, 172);
+    height:100; 
+    width:100%;
+    text-align: center;
+}
+figure{
+    
+    color: aliceblue;
+}
+img{
+    
+    display :block;
+    max-width: 100%;
+    height:auto;
+    margin:0 auto;
+
+
+link{
+    color: blueviolet;
+}
+p{
+    font-style:italic;
